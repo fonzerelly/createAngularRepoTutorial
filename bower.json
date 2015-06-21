@@ -1,0 +1,17 @@
+{
+  "name": "createARepo",
+  "version": "0.0.0",
+  "authors": [
+    "fonzerelly <ChristianHoerauf@web.de>"
+  ],
+  "description": "a angular example",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

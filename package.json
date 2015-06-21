@@ -1,0 +1,11 @@
+{
+  "name": "create_a_repo",
+  "version": "0.0.1",
+  "description": "exercise in create an angular repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start karma.conf.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
